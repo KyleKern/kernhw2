@@ -68,6 +68,6 @@ function randomize(){
     <br />
     Disclaimer: All material above is used for teaching purposes.  Information might be inaccurate.
     <br />
-    <img src="img/log.jpg" alt="CSUMB logo" />
+    <img src="img/Cal-State-Monterey-Bay.jpg" alt="CSUMB logo" />
 </footer>
 </html>
