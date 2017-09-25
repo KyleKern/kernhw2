@@ -71,6 +71,6 @@ function randomize(){
     <br />
     Disclaimer: All material above is used for teaching purposes.  Information might be inaccurate.
     <br />
-    <img src="img/Cal-State-Monterey-Bay.jpg" alt="CSUMB logo" height:50% width:50%/>
+    <img src="img/Cal-State-Monterey-Bay.jpg" alt="CSUMB logo" height:"50%" width:"50%"/>
 </footer>
 </html>
