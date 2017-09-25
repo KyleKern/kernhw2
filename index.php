@@ -49,7 +49,10 @@ function randomize(){
     <head>
         <title>Pokemon Partner Picker</title>
         <style>
-        @import url("./styles/styles.css");
+        @import url("styles/styles.css");
+        body{
+        background: url("wallpaperhw2.jpg");
+        }
         </style>
     </head>
     
