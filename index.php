@@ -63,6 +63,7 @@ function randomize(){
         </div></center>
         <br />
         <img src="https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/250px-025Pikachu.png" alt="Pikachu">
+        <img src="https://img.pokemondb.net/artwork/mudkip.jpg" alt="mudkip">
     </body>
     <br />
     <br />
@@ -71,6 +72,6 @@ function randomize(){
     <br />
     Disclaimer: All material above is used for teaching purposes.  Information might be inaccurate.
     <br />
-    <img src="img/Cal-State-Monterey-Bay.jpg" alt="CSUMB logo" height:"50%" width:"50%"/>
+   
 </footer>
 </html>
